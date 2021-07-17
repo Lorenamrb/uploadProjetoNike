@@ -1,0 +1,31 @@
+artistas
+trabalhe conosco
+sobre nós
+contato
+
+
+<footer>
+     <div class="col-100 final">
+     	<div class="content">
+
+   
+     		<div class="col-4">
+     			<h4>Artistas</h4>
+     			<p>Rubens Cantuni</p>
+     			<p>Ghica Popa</p>
+     		</div>
+
+     		<div class="col-4">
+     			<h4>Um pouco sobre</h4>
+     		</div>
+
+     		<div class="col-4">
+     			<h4>Trabalhe conosco</h4>
+     		</div>
+
+     		<div class="col-4">
+     			<h4>Contato</h4>
+     		</div>
+     	</div>
+     </div>
+ </footer>
